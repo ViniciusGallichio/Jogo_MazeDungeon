@@ -4,8 +4,6 @@ Esse jogo foi feito para ser jogado apenas em cmd (prompt de comando). Foi um tr
 
 - Apenas um if e else dentro do elemento de repetição (for, while)
 
-- Apenas 2 switch case
-
 - Uma sala do jogo te leva para outra aleatória do numero 1 ao 5. (No total são 9 salas)
 
   ## Como funciona o jogo: 
